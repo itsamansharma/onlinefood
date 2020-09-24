@@ -1,0 +1,21 @@
+body{
+    margin: 20px 50px;
+}
+ul{
+    margin-top:15px ;
+    border: 1px solid lightblue;
+    font-size: 20px;
+}
+.scrollbar{
+    height: 230px;
+}
+
+.row
+{
+    border: 3px solid red;
+}
+
+.col-sm-4
+{
+    border: 2px solid black;
+}
